@@ -1,0 +1,8 @@
+WDBC Dataset:
+https://drive.google.com/file/d/1XSsrUr5umPmYfion86MPucfJADWozdLP/view?usp=sharing
+
+Salary_Predict_Dataset:
+https://drive.google.com/file/d/1MviEPRzlufreMQZK7g_UF-pIZf6nigT0/view?usp=sharing
+
+Clustering Dataset:
+https://drive.google.com/file/d/1QOassvaRg98LBYAxPY0wD2nE6v_0ozbC/view?usp=sharing
