@@ -6,7 +6,7 @@ from sklearn.preprocessing import OneHotEncoder, LabelEncoder
 from ColumnTrans import ColumnTransAll
 
 # loading and Preparing data
-df = pd.read_csv('employee_data.csv')
+df = pd.read_csv('Data.csv')
 x = df.iloc[:, 1:20]
 y = df.iloc[:, -1]
 le = LabelEncoder()
