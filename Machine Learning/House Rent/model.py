@@ -7,7 +7,7 @@ from sklearn.preprocessing import OneHotEncoder, PolynomialFeatures
 
 
 # lode and Preparing data
-df = pd.read_csv('House_Rent_Dataset.csv')
+df = pd.read_csv('Dataset.csv')
 df = df.drop('Posted On', axis=1)
 x = df.drop('Rent', axis=1).values
 y = df.iloc[:, 1].values
