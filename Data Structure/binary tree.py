@@ -40,7 +40,7 @@ class root:
             list1 = list1 + self.print_in(root1.left)
             list1.append(root1.root)
             list1 = list1 + self.print_in(root1.right)
-            #test
+
         return list1
 
 
